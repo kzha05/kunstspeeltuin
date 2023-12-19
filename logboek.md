@@ -47,3 +47,31 @@ TEAM 4 SD meeting
 standup
 planning bijgewerkt
 gepland wanneer we user stories gaan maken.
+
+do 07 dec 2023
+geen project relevantie
+
+vr 08 dec 2023
+start knutselen fysieke project
+
+ma 11 dec 2023
+dpcmentatie bijwerking
+
+di 12 dec 2023
+studiedag
+
+wo 13 dec 2023
+standup + planning voor de week
+
+do 14 dec 2023
+backend onderzoek voor webcam
+
+vr 15 dec 2023
+code research
+
+ma 18 dec 2023
+Interactief project code en materiaal progres
+
+di 19 dec 2023
+sprint review 1
+uitwerking webcam project
