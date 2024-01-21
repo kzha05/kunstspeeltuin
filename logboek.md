@@ -113,3 +113,12 @@ Code bijwerken
 
 wo 17 jan 2024
 Planning bijgwerkt, plan van aanpak bestroken onderdeel webcam
+
+do 18 jan 2024
+installatie kabels, installatie andere sensor(ldr) kijkdoos, aanpassing code.
+
+vr 19 jan 2024
+maken van kabels voor leds in de kijdoos, code schrijven voor aangaan van leds in de kijkdoos.
+
+zo 21 jan 2024
+maken van webcam website voor bo
