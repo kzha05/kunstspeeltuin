@@ -81,6 +81,8 @@ video.addEventListener("playing", () => {
                 const ctx = canvas.getContext('2d');
                     
                 ctx.drawImage(video, 0, 0, canvas.width, canvas.height);
+
+                
                 const data = canvas.toDataURL("image/png");
                 console.log(data);
                 photo.setAttribute("src", data);
@@ -97,8 +99,11 @@ video.addEventListener("playing", () => {
                 }
                 check = true;  
                 console.log("pictured taken"); 
+                
+        
+                
             }, 2000);
-               
+              
         }
 
     }, 100); // do code after 100 miliseconds
@@ -118,4 +123,10 @@ function interpolateAgePredictions(age){
     - append()
     - matchDimensions()
     - concat()
+
+    base64 string to image in php
+
+    setTimeout(function(){
+        ctx.clearRect(0,0,canvas.width,canvas.height);
+    },2000);
 */
