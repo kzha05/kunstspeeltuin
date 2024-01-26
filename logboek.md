@@ -122,3 +122,12 @@ maken van kabels voor leds in de kijdoos, code schrijven voor aangaan van leds i
 
 zo 21 jan 2024
 maken van webcam website voor bo
+
+ma 22 jan 2024
+In elkaar zetten van de kijkdoos, laatste beetjes schilderen, draden connected en testen.
+
+di 23 jan 2024
+Afwerken kijkdoos, werken aan documentatie, onderzoek over databases voor webcam
+
+wo 24 jan 2024
+documentatie, standup en planning.
