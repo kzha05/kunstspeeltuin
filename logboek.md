@@ -131,3 +131,7 @@ Afwerken kijkdoos, werken aan documentatie, onderzoek over databases voor webcam
 
 wo 24 jan 2024
 documentatie, standup en planning.
+
+vrij 26 jan 2024: documentatie
+ma 29 jan 2024: CGI presentatie
+di 30 jan 2024: Expo + user video installatie
